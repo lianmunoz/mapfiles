@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fissure_16_mar_2024" id="fissure_16_mar_2024">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>fissure_16_mar_2024</name>
+  <Placemark id="fissure_16_mar_2024.1">
+	<Style><LineStyle><color>FFc6e8cb</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_16_mar_2024">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3668631769069,63.893712729105 -22.3754397711458,63.8874411642351 -22.3867619214673,63.8784629094836 -22.3899258480006,63.8758840084664 -22.3914424408843,63.871784910865 -22.3913378482716,63.8696084615611</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

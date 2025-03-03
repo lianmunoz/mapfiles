@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="start_18_dec_2023" id="start_18_dec_2023">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>start_18_dec_2023</name>
+  <Placemark id="start_18_dec_2023.1">
+	<ExtendedData><SchemaData schemaUrl="#start_18_dec_2023">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-22.3645624934158,63.8929250154486</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

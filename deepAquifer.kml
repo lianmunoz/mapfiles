@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="deep_aquifer" id="deep_aquifer">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>deep_aquifer</name>
+  <Placemark id="deep_aquifer.1">
+	<Style><LineStyle><color>FFb67b48</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#deep_aquifer">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.4986535210673,63.8601997584095 -22.4643934586451,63.8703449606892 -22.4492787252235,63.8747189493567 -22.4299894463807,63.8800428863364</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

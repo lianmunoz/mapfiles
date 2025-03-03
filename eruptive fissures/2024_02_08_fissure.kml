@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fissure_8_feb_2024" id="fissure_8_feb_2024">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>fissure_8_feb_2024</name>
+  <Placemark id="fissure_8_feb_2024.1">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3636907424453,63.8953591885297 -22.3649741800667,63.8946213227578 -22.3636907424453,63.8953591885297</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.2">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3649741800667,63.8959156666471 -22.3656674237454,63.8955034616934 -22.3661170953208,63.8951077392438 -22.3672974832061,63.894613078338</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.3">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3663231947928,63.8941761206216 -22.3671101200497,63.8934835699329</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.4">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3649929163824,63.8944894117498 -22.3657985779549,63.8940277183407</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.5">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3680952409233,63.8928327541212 -22.3742408572529,63.8883676081089 -22.3784732156685,63.885662660086 -22.3795634788859,63.8843863030477 -22.3797926568634,63.8836064087396</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.6">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3848066129994,63.8814277382903 -22.3843695804593,63.88187069059 -22.3848066129994,63.8814277382903</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.7">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3846439962403,63.8812979832637 -22.3850911923278,63.881047420137</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.8">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.385142010065,63.8809668815145 -22.3858026406489,63.880438900382</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.9">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3855892061526,63.8805060171782 -22.3863514722109,63.8798169437765</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.10">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3861177106197,63.8798616893157 -22.3864429441379,63.8795797912289</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.11">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3863209815686,63.8795618928422 -22.3865953973496,63.8792844663899</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.12">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3863921264007,63.8793113142308 -22.3866258879919,63.8788772709905</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.13">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3850075202518,63.8785731480768 -22.3849929754151,63.8777918824493</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.14">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3847020786816,63.8773692214971 -22.3847020786816,63.8771002521262</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.15">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3847457131917,63.8770746358613 -22.3848329822117,63.8763253497822</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.16">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3847893477017,63.8757937928416 -22.3853711411686,63.8751341359088</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_8_feb_2024.17">
+	<Style><LineStyle><color>FFd0bf80</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_8_feb_2024">
+		<SimpleData name="id">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.385166523713,63.8749916316525 -22.3856098546872,63.8735754787927</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

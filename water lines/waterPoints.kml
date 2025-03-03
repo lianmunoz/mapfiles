@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="water_points" id="water_points">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>water_points</name>
+  <Placemark id="water_points.1">
+	<name>Sandgerdi</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.7057404489427,64.0385861689206</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.2">
+	<name>Keflavik</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.5553651030206,63.9994031446511</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.3">
+	<name>Gardur</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.6514490902851,64.0700296503607</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.4">
+	<name>Njardvik</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.5424757876559,63.9730220530884</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.5">
+	<name>Hafnir</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.6840751698021,63.933921290295</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.6">
+	<name>Grindavik</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4317326453222,63.8440385158601</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.7">
+	<name>Power Plant</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4329044012644,63.8790760773474</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.8">
+	<name>Kalfatjorn</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.2116866440005,64.0056548327481</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.9">
+	<name>Vogar</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.3870228326507,63.9834746831664</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.10">
+	<name>Cold Water Supply</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.2834200780901,63.8675495820186</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.11">
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.5093736822873,63.9718223211031</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.12">
+	<name>Keflavik Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.6245963499419,63.9815044041293</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.13">
+	<name>Pump Station</name>
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.5710861619124,63.9602508368878</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.14">
+	<ExtendedData><SchemaData schemaUrl="#water_points">
+		<SimpleData name="id">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.5491157379952,63.9885710653864</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="water_points.15">
+      <MultiGeometry><Point><coordinates>-22.3283831889211,63.8809857110252</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

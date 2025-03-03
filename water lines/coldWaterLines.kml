@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cold_water_lines" id="cold_water_lines">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>cold_water_lines</name>
+  <Placemark id="cold_water_lines.1">
+	<Style><LineStyle><color>FFb75048</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cold_water_lines">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.2834658778015,63.8675703955648 -22.2850282190578,63.8735908805413 -22.3139315323,63.8735908805413 -22.3178373854408,63.8813296092644 -22.3287737742352,63.881157660671 -22.4330600530954,63.8790941954562</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="cold_water_lines.2">
+	<Style><LineStyle><color>FFb75048</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cold_water_lines">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3283831889211,63.8809857110252 -22.3276020182929,63.8756547499489 -22.3565053315351,63.8759987134464 -22.4318882971532,63.8441642664638</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="cold_water_lines.3">
+	<Style><LineStyle><color>FFb75048</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cold_water_lines">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.356310038878,63.8759987134464 -22.3619735259322,63.8816735032936 -22.4363800282651,63.8799539910479 -22.5047324582297,63.9387873875185 -22.5430098190099,63.956541975904 -22.5465250868366,63.9619433127709 -22.5682025717682,63.9590284350167 -22.5713272542809,63.9602287155555</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="cold_water_lines.4">
+	<Style><LineStyle><color>FFb75048</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cold_water_lines">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.5465250868366,63.9620290398749 -22.5088336040276,63.9716288142965</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="cold_water_lines.5">
+	<Style><LineStyle><color>FFb75048</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cold_water_lines">
+		<SimpleData name="id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.5465250868366,63.9619433127709 -22.5924188612414,64.0015212863575 -22.5551179637464,63.9996378907688</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="cold_water_lines.6">
+	<Style><LineStyle><color>FFb75048</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cold_water_lines">
+		<SimpleData name="id">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.5728895955372,63.9849944420913 -22.5488685987211,63.9888487249363</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

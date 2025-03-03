@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="geothermal_wells" id="geothermal_wells">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="auxiliary_storage_labeling_show" type="int"></SimpleField>
+	<SimpleField name="auxiliary_storage_labeling_positionx" type="float"></SimpleField>
+	<SimpleField name="auxiliary_storage_labeling_positiony" type="float"></SimpleField>
+</Schema>
+<Folder><name>geothermal_wells</name>
+  <Placemark id="geothermal_wells.1">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_positionx">-22.4752041502994</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_positiony">63.8644629404772</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4776728315798,63.8651935577018</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.2">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_show">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.478032706185,63.8648923695478</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.3">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.5320498844369,63.8588520732949</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.4">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.5592204171352,63.8286469938949</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.5">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_show">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4409656218416,63.878727840961</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.6">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_show">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4269305122359,63.8817380949717</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.7">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_show">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4300974087623,63.8799636684778</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.8">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_show">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4261387881043,63.8799002940301</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.9">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_positionx">-22.4231349713332</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_positiony">63.8782241409601</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4267865623938,63.878410953354</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.10">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_show">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4317528319466,63.8778722362194</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.11">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_show">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4266426125517,63.8770799863742</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.12">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_show">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4295935843149,63.8767947709613</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.13">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_show">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4340560294203,63.876160948567</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.14">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_show">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4264986627095,63.8751309566822</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark id="geothermal_wells.15">
+	<ExtendedData><SchemaData schemaUrl="#geothermal_wells">
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="auxiliary_storage_labeling_show">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-22.4259228633411,63.8749724930411</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

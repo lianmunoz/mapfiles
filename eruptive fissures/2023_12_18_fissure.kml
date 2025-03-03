@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fissure_18_dec_2023" id="fissure_18_dec_2023">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>fissure_18_dec_2023</name>
+  <Placemark id="fissure_18_dec_2023.1">
+	<Style><LineStyle><color>FF923520</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_18_dec_2023">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3907985828842,63.8720985117451 -22.3900785508441,63.8732422598728 -22.3907985828842,63.8720985117451</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_18_dec_2023.2">
+	<Style><LineStyle><color>FF923520</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_18_dec_2023">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3902842742842,63.8736838927321 -22.3902585588542,63.8745671376294</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_18_dec_2023.3">
+	<Style><LineStyle><color>FF923520</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_18_dec_2023">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3904642822942,63.875348446513 -22.3899242582641,63.8774318306653 -22.3849868957034,63.882028316638 -22.3832896773232,63.8831150605338</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_18_dec_2023.4">
+	<Style><LineStyle><color>FF923520</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_18_dec_2023">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3805895571728,63.8840546073057 -22.3787637616425,63.8859222876754</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_18_dec_2023.5">
+	<Style><LineStyle><color>FF923520</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_18_dec_2023">
+		<SimpleData name="id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3699176537213,63.8905966037977 -22.375035024292,63.8874729339809</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="fissure_18_dec_2023.6">
+	<Style><LineStyle><color>FF923520</color><width>19.8425</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#fissure_18_dec_2023">
+		<SimpleData name="id">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3644659825605,63.8929164960026 -22.36112297666,63.8954059232058 -22.3562370449594,63.8987097311438 -22.3526368847588,63.9011760191957 -22.3478538147782,63.9041171803245</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

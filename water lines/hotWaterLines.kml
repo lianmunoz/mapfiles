@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="hot_water_lines" id="hot_water_lines">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>hot_water_lines</name>
+  <Placemark id="hot_water_lines.1">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.432818960727,63.8791163808796 -22.4316472047847,63.8440143035596</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="hot_water_lines.2">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.4326236680699,63.8795462816251 -22.5021478539767,63.9393243095233 -22.5369099469302,63.9566498437274 -22.5853425258765,64.0000880362145 -22.7058380952712,64.0385861689206</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="hot_water_lines.3">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.6515467366136,64.0701150462933 -22.6800594645417,64.0304632051233</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="hot_water_lines.4">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.585244879548,64.0000880362145 -22.5553651030206,63.9994459508656</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="hot_water_lines.5">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.5491157379952,63.9885710653864 -22.5679614793998,63.9845025997356</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="hot_water_lines.6">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.5093736822873,63.9718223211031 -22.5448192995403,63.963765645377</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="hot_water_lines.7">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.5090288966846,63.9719716024838 -22.3848227668061,63.9643435724443 -22.3867756933765,63.9834525801876</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="hot_water_lines.8">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.3854086447773,63.9644292921973 -22.2115981800102,64.0057156657938</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="hot_water_lines.9">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.5709366689668,63.9599715169151 -22.5439862822951,63.96408641161</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="hot_water_lines.10">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.6228845157399,63.9822532954873 -22.5678119864541,63.9610002972986</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="hot_water_lines.11">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.6267903688807,63.9807112824445 -22.5728895955372,63.9598000498421</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="hot_water_lines.12">
+	<Style><LineStyle><color>FF3219d2</color><width>14.1732</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#hot_water_lines">
+		<SimpleData name="id">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-22.5705460836527,63.9603144479105 -22.6041364206639,63.9256571961865 -22.684206410051,63.9338964664992</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
